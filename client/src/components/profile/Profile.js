@@ -62,7 +62,7 @@ class Profile extends Component {
 }
 
 Profile.defaultProps = {
-  profile: {}
+  profile: null
 }
 
 Profile.propTypes = {
